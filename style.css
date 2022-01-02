@@ -371,6 +371,7 @@
   /*====  TESTIMONIALS ============================ */
   #testimonials {
     background: white;
+    overflow-x: hidden;
   }
   
   #testimonials .container {
